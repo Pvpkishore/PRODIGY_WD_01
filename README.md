@@ -16,7 +16,7 @@ A sleek and responsive **Landing Page** featuring an interactive **Navigation Me
 - **JavaScript** for scroll-based interactivity  
 
 ### 🌐 Live Demo:
-[Responsive Landing Page Demo](#)
+[Responsive Landing Page Demo](https://responsivelandingpage-kishore.vercel.app/#home)
 
 ### 💡 Knowledge Gained:
 - Implementing scroll-based animations  
